@@ -1,0 +1,16 @@
+name: ds-env
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - beautifulsoup4
+  - black
+  - isort
+  - pytorch
+  - lightgbm
